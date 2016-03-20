@@ -1,0 +1,4 @@
+== README
+
+This is the Shine application from the book: Rails, Angular, Postgres, and Bootstrap- Full-Stack Web Development.
+
